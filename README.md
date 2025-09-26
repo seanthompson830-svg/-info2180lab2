@@ -2,7 +2,7 @@
 
 
 
-This is Lab 2 for <Sean Thompson>
+This is Lab 2 for Sean Thompson
 
 
 
